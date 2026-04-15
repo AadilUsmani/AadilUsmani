@@ -3,7 +3,7 @@
 # Muhammad Adil Usmani
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Backend+Engineer;RAG+%26+GraphRAG+Architect;LLM+Inference+Optimizer;FastAPI+%7C+Docker+%7C+Vector+Databases" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Backend+Engineer;RAG+%26+GraphRAG+Architect;LLM+Inference+Optimizer;FastAPI+%7C+Vector+Databases" alt="Typing SVG" />
 </a>
 <br/>
 <p>
